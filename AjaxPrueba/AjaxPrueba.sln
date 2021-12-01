@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AjaxPrueba", ".", "{77BF4307-2D73-4A7A-A284-86E959086AD3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60422"
+		Debug.AspNetCompiler.PhysicalPath = "..\AjaxPrueba\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60422\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60422"
+		Release.AspNetCompiler.PhysicalPath = "..\AjaxPrueba\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60422\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60422"
+		SlnRelativePath = "..\AjaxPrueba\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BF4307-2D73-4A7A-A284-86E959086AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF4307-2D73-4A7A-A284-86E959086AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE9B1A4-CA48-47C7-8B7F-98F6A1019A6F}
+	EndGlobalSection
+EndGlobal
